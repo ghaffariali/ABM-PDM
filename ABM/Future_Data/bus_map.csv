@@ -1,0 +1,124 @@
+Bus_Number,Bus_Name,LZ_Name,LZ
+1,Tennessee Colony 345,North,LZ_NORTH
+2,Wheeler 345,West,LZ_WEST
+3,Alpine 2 345,West,LZ_WEST
+4,Rosharon 345,Houston,LZ_HOUSTON
+5,Sullivan City 345,South,LZ_SOUTH
+6,Prosper 345,North,LZ_NORTH
+7,Eastland 345,North,LZ_NORTH
+8,Fischer 345,South,LZ_SOUTH
+9,Bryan 1 345,North,LZ_NORTH
+10,Rowlett 1 345,North,LZ_NORTH
+11,Weatherford 3 345,North,LZ_NORTH
+12,Odonnell 345,West,LZ_WEST
+13,Dallas 10 345,North,LZ_NORTH
+14,O'Donnell 345,West,LZ_WEST
+15,Canyon Lake 1 345,South,LZ_SOUTH
+16,Adrian 1 345,West,LZ_WEST
+17,Austin 17 345,South,LZ_SOUTH
+18,Taft 2 345,South,LZ_SOUTH
+19,Dilley 1 345,South,LZ_SOUTH
+20,Dallas 8 345,North,LZ_NORTH
+21,San Angelo 3 345,West,LZ_WEST
+22,Carlsbad 345,West,LZ_WEST
+23,Dale 345,South,LZ_SOUTH
+24,Brenham 345,South,LZ_SOUTH
+25,Raymondville 345,South,LZ_SOUTH
+26,Mccamey 345,West,LZ_WEST
+27,Fort Worth 16 345,North,LZ_NORTH
+28,Art 345,South,LZ_SOUTH
+29,Austin 22 345,AEN,LZ_AEN
+30,Abilene 2 345,West,LZ_WEST
+31,Campbellton 345,South,LZ_SOUTH
+32,Corpus Christi 11 345,South,LZ_SOUTH
+33,New Braunfels 2 345,South,LZ_SOUTH
+34,Abilene 5 345,West,LZ_WEST
+35,Rule 2 345,West,LZ_WEST
+36,Cedar Creek 2 345,South,LZ_SOUTH
+37,Fort Worth 15 345,North,LZ_NORTH
+38,Lytle 345,South,LZ_SOUTH
+39,Conroe 4 345,Houston,LZ_HOUSTON
+40,Gordon 345,North,LZ_NORTH
+41,Melvin 345,South,LZ_SOUTH
+42,Blum 345,North,LZ_NORTH
+43,Rockdale 2 345,South,LZ_SOUTH
+44,Richards 2 345,North,LZ_NORTH
+45,Tarpley 345,South,LZ_SOUTH
+46,Bayside 3 345,South,LZ_SOUTH
+47,San Antonio 25 345,CPS,LZ_CPS
+48,Roscoe 2 345,West,LZ_WEST
+49,Lopeno 345,South,LZ_SOUTH
+50,Crane 2 345,West,LZ_WEST
+51,Brownsville 1 345,South,LZ_SOUTH
+52,San Antonio 14 345,CPS,LZ_CPS
+53,Monahans 2 345,West,LZ_WEST
+54,Centerville 345,North,LZ_NORTH
+55,Fort Worth 10 345,North,LZ_NORTH
+56,Del Valle 345,AEN,LZ_AEN
+57,Texas City 2 345,Houston,LZ_HOUSTON
+58,Electra 345,West,LZ_WEST
+59,Odessa 8 345,West,LZ_WEST
+60,Weatherford 2 345,North,LZ_NORTH
+61,Burnet 345,South,LZ_SOUTH
+62,Feeeport 345,Houston,LZ_HOUSTON
+63,Waco 2 345,North,LZ_NORTH
+64,San Antonio 33 345,CPS,LZ_CPS
+65,Calliham 345,South,LZ_SOUTH
+66,Eden 345,South,LZ_SOUTH
+67,Tomball 1 345,Houston,LZ_HOUSTON
+68,Houston 46 345,Houston,LZ_HOUSTON
+69,Houston 45 345,Houston,LZ_HOUSTON
+70,Camp Wood 345,South,LZ_SOUTH
+71,Sarita 1 345,South,LZ_SOUTH
+72,Brownsville 2 345,South,LZ_SOUTH
+73,Laredo 5 345,South,LZ_SOUTH
+74,Snyder 2 345,West,LZ_WEST
+75,Panhandle 3 345,West,LZ_WEST
+76,Allen 1 345,North,LZ_NORTH
+77,Castell 345,South,LZ_SOUTH
+78,Mexia 345,North,LZ_NORTH
+79,Bastrop 2 345,South,LZ_SOUTH
+80,Bayside 1 345,South,LZ_SOUTH
+81,Tyler 8 345,North,LZ_NORTH
+82,Blue Ridge 345,North,LZ_NORTH
+83,San Antonio 2 345,CPS,LZ_CPS
+84,Houston 12 345,Houston,LZ_HOUSTON
+85,San Perlita 345,South,LZ_SOUTH
+86,Houston 48 345,Houston,LZ_HOUSTON
+87,Throckmorton 345,West,LZ_WEST
+88,San Antonio 29 345,CPS,LZ_CPS
+89,Houston 11 345,Houston,LZ_HOUSTON
+90,East Bernard 1 345,Houston,LZ_HOUSTON
+91,Meyersville 345,South,LZ_SOUTH
+92,Conroe 7 345,Houston,LZ_HOUSTON
+93,Loving 345,North,LZ_NORTH
+94,Merkel 2 345,West,LZ_WEST
+95,Montgomery 2 345,Houston,LZ_HOUSTON
+96,Houston 20 345,Houston,LZ_HOUSTON
+97,Fort Worth 12 345,North,LZ_NORTH
+98,Alto 345,North,LZ_NORTH
+99,Reagan 345,South,LZ_SOUTH
+100,Pasadena 4 345,Houston,LZ_HOUSTON
+101,Coppell 345,North,LZ_NORTH
+102,Weatherford 4 345,North,LZ_NORTH
+103,Los Fresnos 1 345,South,LZ_SOUTH
+104,North Richland Hills 1 345,North,LZ_NORTH
+105,Spring 3 345,Houston,LZ_HOUSTON
+106,New Caney 345,Houston,LZ_HOUSTON
+107,Glen Rose 2 345,North,LZ_NORTH
+108,Austin 27 345,AEN,LZ_AEN
+109,Dallas 3 345,North,LZ_NORTH
+110,Bryan 5 345,North,LZ_NORTH
+111,Wadsworth 2 345,Houston,LZ_HOUSTON
+112,Edinburg 1 345,South,LZ_SOUTH
+113,Agua Dulce 345,South,LZ_SOUTH
+114,Plano 2 345,North,LZ_NORTH
+115,Frost 345,North,LZ_NORTH
+116,Katy 2 345,Houston,LZ_HOUSTON
+117,Kennedale 2 345,North,LZ_NORTH
+118,Mission 3 345,South,LZ_SOUTH
+119,Trent 2 345,West,LZ_WEST
+120,Knox City 345,West,LZ_WEST
+121,Adrian 1 345,West,LZ_WEST
+122,Laredo 5 345,South,LZ_SOUTH
+123,Lopeno 345,South,LZ_SOUTH
